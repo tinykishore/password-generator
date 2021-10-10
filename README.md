@@ -1,2 +1,3 @@
-# password-generator
-Generate Strong Random Password
+# Password Generator
+
+This program generates strong passwords with a given length
